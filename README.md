@@ -2,6 +2,7 @@
 # ddosx.py
 
 REQUESTS SENT PER SECOND
+
 ![Image](https:/install mages.githubusercontent.com/126936269/261999862-d4bbe4ef-3376-46ef-9490-f63de38edc39.jpeg)
 
 INSTALLATION
