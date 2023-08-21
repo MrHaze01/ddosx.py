@@ -1,4 +1,4 @@
-- Hi Everyone! I’m Mr.Haze
+- Hi everyone! I’m Mr.Haze
 - AND THIS IS MY LAYER 7 DDOS TOOL
 
 Anonymous Ddos Tool
