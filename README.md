@@ -6,6 +6,6 @@ powerful Layer 7 ddos tool
 code in Python!
 [+] ddosx [+]
 
-Installation? Scroll Down!
+Installation? Scroll Down!!
 
 
