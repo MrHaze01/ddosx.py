@@ -9,3 +9,19 @@ code in Python!
 Installation? Scroll Down!!
 
 
+
+
+
+INSTALLATION
+
+~ sudo apt install git
+
+~ git clone https://github.com/MrHaze01/ddosx.py
+
+~ pip3 install google
+
+~ pip3 install beautifulsoup4
+
+~ python3 ddosx.py
+
+
